@@ -1,5 +1,5 @@
 # EunsunShin
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=350&section=header&text=EunsunShin&fontSize=90)
+
 ![Eunsonny's github stats](https://github-readme-stats.vercel.app/api?username=eunsonny&show_icons=true&theme=dark)
 
 <!--
